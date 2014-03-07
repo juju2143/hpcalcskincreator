@@ -1,0 +1,9 @@
+c:\users\isabelle\documents\visual studio 2010\Projects\hpcalcskincreator\hpcalcskincreator\bin\Debug\hpcalcskincreator.exe
+c:\users\isabelle\documents\visual studio 2010\Projects\hpcalcskincreator\hpcalcskincreator\bin\Debug\hpcalcskincreator.pdb
+c:\users\isabelle\documents\visual studio 2010\Projects\hpcalcskincreator\hpcalcskincreator\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\isabelle\documents\visual studio 2010\Projects\hpcalcskincreator\hpcalcskincreator\obj\x86\Debug\hpcalcskincreator.frmMain.resources
+c:\users\isabelle\documents\visual studio 2010\Projects\hpcalcskincreator\hpcalcskincreator\obj\x86\Debug\hpcalcskincreator.Properties.Resources.resources
+c:\users\isabelle\documents\visual studio 2010\Projects\hpcalcskincreator\hpcalcskincreator\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\isabelle\documents\visual studio 2010\Projects\hpcalcskincreator\hpcalcskincreator\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\isabelle\documents\visual studio 2010\Projects\hpcalcskincreator\hpcalcskincreator\obj\x86\Debug\hpcalcskincreator.exe
+c:\users\isabelle\documents\visual studio 2010\Projects\hpcalcskincreator\hpcalcskincreator\obj\x86\Debug\hpcalcskincreator.pdb
